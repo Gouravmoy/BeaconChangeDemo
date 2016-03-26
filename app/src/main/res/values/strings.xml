@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeaconChangeDemo</string>
+    <string name="button_send">Start EddyStone Scanning</string>
+    <string name="action_settings">Settings</string>
+</resources>
